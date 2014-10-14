@@ -1,0 +1,69 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/order_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@drawable/bg000">
+
+    <Button
+        android:id="@+id/button_gamestart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/orderbutton_template"
+        android:onClick="ButtonClickGameStart"
+        android:text="@string/button_gamestart"
+        android:gravity="left"
+        style="@style/Text001"/>
+
+    <Button
+        android:id="@+id/button_levelup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="50dp"
+        android:longClickable="true"
+        android:background="@drawable/levelupbutton_template"/>
+    
+   <TextView
+        android:id="@+id/text_stageleveltext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_below="@id/button_levelup"
+        android:layout_alignParentRight="true"
+        android:layout_margin="20dp"
+        android:background="@drawable/ordertext_template"
+        style="@style/Text001"/>
+   
+    <Button
+        android:id="@+id/button_leveldown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text_stageleveltext"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="50dp"
+        android:longClickable="true"
+        android:background="@drawable/leveldownbutton_template"/>
+    
+    <ListView
+        android:id="@+id/list_stagelocation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button_gamestart"
+        android:layout_toLeftOf="@id/text_stageleveltext"
+        />
+    
+    <ImageView 
+        android:id="@+id/image_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/title001"
+        />
+
+    
+</RelativeLayout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_stagelocation">
+        <item>大平原</item>
+        <item>三つの道標</item>
+        <item>最前線</item>
+        <item>略奪されし鉱山</item>
+        <item>結晶洞窟</item>
+        <item>魔の森</item>
+        <item>古代からの守護者</item>
+        <item>死者の都</item>
+        <item>亡国の王</item>
+        <item>魔境</item>
+        <item>竜の巣</item>
+        <item>xxxx</item>
+        </string-array>
+
+    <string-array name="list_stagedescription">
+        <item>王国の南に広がる大平原。豊富な資源に恵まれているが、多種多様な亜人と魔物たちが潜む危険な土地でもある。</item>
+        <item>選択を促す三つの道標。進む道に何が待ち受けていたとしても、前進を止めることはない。</item>
+        <item>亜人族の尖兵たちのキャンプ場。山のように巨大な亜人族の姿も確認されている。</item>
+        <item>良質な鉱石を採掘できる鉱山。しかし、強力な魔物の巣と化して久しい。</item>
+        <item>魔力を帯びた結晶が多く取れる洞窟。魔力に魅かれた魔物たちは近づくものに襲いかかるだろう。</item>
+        <item>原初から存在する人を喰らう森。人は恐れ敬い、近づくことは死を意味すると知っていた。</item>
+        <item>古代人はいくつかの遺跡を残して忽然と消えた。ここはその一つ、守護者は帰ってこない主をいつまでも待ち続けている。</item>
+        <item>全盛を極めた都も戦争の果てに滅亡した。ここにいるのは過ちを認められない亡霊たちだけだ。</item>
+        <item>不浄の魂を収集し、過去の再建を夢見る魔王はいまだに存在する。もう止めることはできないのかもしれない。</item>
+        <item>世界の果てに辿り着いたものはいない。世界の果てを幻想したものは魔境に迷い込み帰ることはないからだ。</item>
+        <item>原初から大空を飛びまわり暴虐の限りを尽くしてきた竜族の末裔が住む。人類にとって竜族の討伐は悲願となるだろう。</item>
+        <item>xxx</item>
+        </string-array>
+    
+</resources>
+    

@@ -1,0 +1,41 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/status_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg003">
+
+    <ScrollView
+        android:id="@+id/text_statusScrollView"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true">
+	    <TextView 
+			android:id="@+id/text_statusTextView"
+	        android:layout_width="wrap_content"
+	        android:layout_height="match_parent"
+			android:background="@drawable/statustext_template"
+			android:alpha="50"
+			style="@style/StatusText"/>
+    </ScrollView>
+   
+    <ImageView
+      android:id="@+id/image_statusView"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_alignParentTop="true"
+      android:layout_alignParentRight="true"
+      android:layout_marginTop="40dp"
+      android:layout_marginRight="80dp"
+      />
+    
+    <ListView
+        android:id="@+id/list_status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_toLeftOf="@id/text_statusScrollView"
+        />
+    
+</RelativeLayout>

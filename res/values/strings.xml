@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Defense Souls</string>
+    
+    <string name="app_start_title">スタートアップガイド</string>
+    <string name="app_start_description01">の世界へようこそ！</string>
+    <string name="app_start_description02">このゲームはタワーディフェンスです。　自分の分身となる「隊長」へ魔物たちを近づけずに蹴散らすことが目的となります。</string>
+    <string name="app_start_description03">この画面では戦場を選択して、挑戦するレベルを決めて戦場に出撃できます。（挑戦するレベルによってクリアしたときの報酬が上がります）</string>
+    <string name="app_start_description04">戦場とレベルを決めたら画面下の「GameStart」をタッチして開始します。</string>
+    <string name="app_game_title">ゲームガイド</string>
+    <string name="app_game_description01">戦闘開始です！魔物たちが「隊長」に襲いかかってきますので、右下の「ユニットの顔」をタッチしてそのまま離さずに「ユニット」をフィールド上の好きな場所に配置しましょう。</string>
+    <string name="app_game_description02">ユニットの配置には制限があります。右上の「ゴールドアイコン」の数字です。「ゴールド」が足りないと「ユニット」は配置できません。</string>
+    <string name="app_game_description03">「隊長」は魔物と重なると「ライフ」を減らしてしまいます。右上の「ハートアイコン」の数字がゼロになると防衛失敗となってしまいますので注意しましょう。</string>
+    <string name="app_game_description04">配置した「ユニット」はタッチすることで、「レベルアップ」や「リターン」させることができます。「レベルアップ」で能力を強化し、「リターン」で「ゴールド」にもどせます。</string>
+    <string name="app_game_description05">左下の「停止アイコン」をタッチすることで、ゲームの停止や再挑戦ができます。「早送りアイコン」でゲームスピードが加速します。「再生アイコン」で元にもどせます。</string>
+    <string name="app_game_description06">お付き合いありがとうございます。　最後に左上の「宝石アイコン」は「スコア（得点）」です。防衛失敗してもこの「スコア」分は報酬が手に入りますので、諦めずに挑戦してください！</string>
+    <string name="app_store_title">部隊の強化ガイド</string>
+    <string name="app_store_description01">ここは部隊を強化してくれるお店です。</string>
+    <string name="app_store_description02">戦場を攻略して手に入れた報酬が使えます。進行具合により強化項目は増えていきます。</string>
+    <string name="app_status_title">戦力の確認ガイド</string>
+    <string name="app_status_description01">ここで部隊の戦力や倒した魔物たちの情報を確認できます。</string>
+    <string name="app_status_description02">部隊のユニットたちの強みがわかります。そして魔物たちの特徴をつかむことでステージの攻略に役立ててください。</string>
+    <string name="app_history_title">戦場の記録ガイド</string>
+    <string name="app_history_description01">ここで今までの戦いの記録を確認できます。戦場のハイスコアを獲得して記録に残しましょう！</string>
+    
+    <string name="menu_order">戦場の選択</string>
+    <string name="menu_store">部隊の強化</string>
+	<string name="menu_status">戦力の確認</string>
+	<string name="menu_history">戦場の記録</string>
+        
+    <string name="cutin_gamestart">画面タッチで開始</string>
+    
+	<string name="submenu_retry">再挑戦</string>
+    <string name="submenu_title">戦場の選択へ戻る</string>
+    <string name="submenu_glidon">グリッド表示</string>
+    <string name="submenu_glidoff">グリッド非表示</string>
+    <string name="submenu_soundon">サウンドON</string>
+    <string name="submenu_soundoff">サウンドOFF</string>
+    
+    <string name="submenu_levelup">レベルアップ</string>
+    <string name="submenu_change">チェンジ</string>
+    <string name="submenu_return">リターン</string>
+    <string name="submenu_skill000">全体攻撃</string>
+    <string name="submenu_skill001">全体アシスト</string>
+    <string name="submenu_skill002">無敵化</string>
+    <string name="submenu_skillname000">火竜の吐息</string>
+    <string name="submenu_skillname001">鼓舞激励</string>
+    <string name="submenu_skillname002">鉄壁の盾</string>
+    <string name="submenu_skilldescription000">画面上のすべての敵にダメージを与える。攻撃力は使い手に依存。</string>
+    <string name="submenu_skilldescription001">画面上のすべての味方に攻撃力補助を一定時間付与する。</string>
+    <string name="submenu_skilldescription002">一定時間、敵に攻められてもはね返す。ただしボスは防げない。</string>
+    
+    <string name="surplus_gold">残りのゴールド</string>
+    <string name="surplus_life">残りのライフ</string>
+    <string name="get_score">スコア</string>
+    <string name="get_stagebonus">ステージボーナス</string>
+    <string name="get_perfectbonus">パーフェクトボーナス</string>
+    <string name="get_total_reward">取得した報酬の合計</string>
+    <string name="stage_levelup">戦場のレベル上限が上がりました！</string>
+    <string name="stage_release">戦場が解放されました！</string>
+    <string name="shop_release">強化の上限が上がりました！</string>
+    <string name="result_release">が解放されました！</string>
+    
+    <string name="button_gamestart">Game Start</string>
+    <string name="title_Lifeup">ライフアップ</string>
+    <string name="description_Lifeup">ライフを+1します</string>
+    <string name="title_InitialFunds">初期資金アップ</string>
+    <string name="description_InitialFunds">初期資金を+10します</string>
+    <string name="title_Release">の解放</string>
+    <string name="description_Release">からチェンジを可能にします</string>
+    <string name="title_Skillup">スキル使用回数アップ</string>
+    <string name="description_Skillup">スキルの使用回数を+1します</string>
+    <string name="description_SkillRelease">を使用可能にします</string>
+    
+    <string name="title_levelup">強化</string>
+    <string name="description_plus">を5%プラスします</string>
+    
+    <string name="store_title">店主</string>
+    <string name="message_Strengthening">強化しますか？</string>
+    <string name="message_Release">解放しますか？</string>
+    <string name="message_NotFunds">資金がたりません</string>
+    <string name="message_Maximum">上限まで最大強化されています</string>
+    <string name="message_Yes">はい</string>
+    <string name="message_No">いいえ</string>
+    <string name="message_OK">OK</string>
+    
+    <string name="text_range">射程距離</string>
+    <string name="text_power">攻撃力</string>
+    <string name="text_speed">攻撃速度</string>
+    <string name="text_life">体力</string>
+    <string name="text_defense">防御力</string>
+    <string name="text_movespeed">移動速度</string>
+    <string name="text_killcount">撃破数</string>
+    <string name="text_assistpower">攻撃力の補助力</string>
+    <string name="text_assistspeed">攻撃速度の補助力</string>
+    <string name="text_description">能力解説</string>
+    
+    <string name="text_historyresult_level">挑戦レベル</string>
+    <string name="text_historyresult_score">獲得報酬</string>
+    
+    <string name="tower000_name">隊長</string>
+    <string name="tower001_name">傭兵の剣士</string>
+    <string name="tower002_name">歴戦の戦士</string>
+    <string name="tower011_name">炎の術師</string>
+    <string name="tower012_name">時の術師</string>
+    <string name="tower021_name">凍結の術師</string>
+    <string name="tower022_name">聖女</string>
+    <string name="tower031_name">槍の罠</string>
+    <string name="tower032_name">地雷</string>
+    
+    <string name="tower000_description">部隊を指揮する隊長。魔物たちの進行を止めるため、前線に出撃する！</string>
+    <string name="tower001_description">素早い剣戟を得意とする傭兵。</string>
+    <string name="tower002_description">勇気を奮い立たせる戦士。その闘志は周囲の味方の力を底上げする。</string>
+    <string name="tower011_description">シンプルな原初の炎を操る術師。炎の爆発は複数の敵へ同時にダメージを与える。動植物型にダメージアップ。</string>
+    <string name="tower012_description">高度な時を操る術師。周囲の結界に入った味方の攻撃速度を上げ、敵の速度を下げる。</string>
+    <string name="tower021_description">すべてを凍てつかせる冷気を操る術師。凍結させた敵の速度を下げる。</string>
+    <string name="tower022_description">祈りにより聖域の力を展開する。侵入した複数の敵にダメージを与える。不死や悪魔型にダメージアップ。</string>
+    <string name="tower031_description">槍が地面から突き出るトラップ。上に魔物がのると発動し魔物にダメージを与える。（消耗品）</string>
+    <string name="tower032_description">大爆発を起こす地雷。上に魔物がのると爆発し周囲にダメージを与える。（消耗品）</string>
+    
+    <string name="enemy001_name">狼男</string>
+    <string name="enemy002_name">オーク</string>
+    <string name="enemy003_name">ギガース</string>
+    <string name="enemy004_name">トロル</string>
+    <string name="enemy011_name">半漁人</string>
+    <string name="enemy012_name">リザードマン</string>
+    <string name="enemy013_name">クラーケン</string>
+    <string name="enemy014_name">レヴィアタン</string>
+    <string name="enemy021_name">ガルム</string>
+    <string name="enemy022_name">ケルベロス</string>
+    <string name="enemy023_name">ベヒモス</string>
+    <string name="enemy031_name">大コウモリ</string>
+    <string name="enemy032_name">ハルピュイア</string>
+    <string name="enemy033_name">ワーム</string>
+    <string name="enemy034_name">ルフ</string>
+    <string name="enemy041_name">キラービー</string>
+    <string name="enemy042_name">デススコーピオン</string>
+    <string name="enemy043_name">大ムカデ</string>
+    <string name="enemy051_name">スライム</string>
+    <string name="enemy052_name">マタンゴ</string>
+    <string name="enemy053_name">食人樹</string>
+    <string name="enemy054_name">ゴーレム</string>
+    <string name="enemy061_name">ゴースト</string>
+    <string name="enemy062_name">ゾンビ</string>
+    <string name="enemy063_name">スケルトン</string>
+    <string name="enemy064_name">デス</string>
+    <string name="enemy071_name">インプ</string>
+    <string name="enemy072_name">下級デーモン</string>
+    <string name="enemy073_name">デーモン</string>
+    <string name="enemy081_name">ドラゴン</string>
+    
+    <string name="enemytype000_description">能力なし。</string>
+    <string name="enemytype001_description">動物型。一度だけ速くなる。</string>
+    <string name="enemytype002_description">飛行型。地面の罠などにかからない。</string>
+    <string name="enemytype003_description">水棲型。凍結攻撃に強く、速度が減少しない。</string>
+    <string name="enemytype004_description">不死型。聖域の攻撃以外で倒された場合、一度だけ再生する。</string>
+    <string name="enemytype005_description">植物型。常に体力が再生し続ける。</string>
+    <string name="enemytype006_description">悪魔型。一度だけ瞬間移動を行う。</string>
+    
+    <string name="enemy001_description">獣人（伝説の生物）の一種で、狼または半狼半人の姿に変身したり、狼に憑依されるなどした人間の男性である。（狼男　Wikipediaより引用）</string>
+    <string name="enemy002_description">英雄ルッジェーロはヒッポグリフに乗ってこれと戦った。このオークは巨大で、鱗があり、牙と豚のような鼻を持っていて、剛毛が生えていた。（オーク　Wikipediaより引用）</string>
+    <string name="enemy003_description">彼らは凄まじく巨大で、山脈や島々を引き裂きながら突き進み、燃え盛る巨大な樫の木や山脈などを武器にして、ゼウスらオリュムポスの神々に戦いを挑んだが、ヘーラクレースを味方につけた神々によって倒されたという。（ギガース　Wikipediaより引用）</string>
+    <string name="enemy004_description">北欧ではトロルド、トロールド、トラウ、トゥローと呼ばれる。当初は悪意に満ちた毛むくじゃらの巨人として描かれ、それがやがて小さい身長として描かれている。変身能力があるのでどんな姿でも変身できる。 どのような存在であるかについては様々な描写があり、一定しない。ただし、鼻や耳が大きく醜いものとして描かれることが多い。別格のトロールたちには2、或いは3の頭がある。（トロール　Wikipediaより引用）</string>
+    <string name="enemy011_description">二腕二脚だが、鱗やエラを持つなどの特徴があることから水棲人（すいせいじん）とも呼ばれ、英語ではマーマン（Merman）と称されることが多い。なお、上半身が人間、下半身が魚の姿（脚が無い）のものは人魚と呼ぶのが普通である。（半漁人　Wikipediaより引用）</string>
+    <string name="enemy012_description">人魚（もしくは魚人）や狼男などの様に古くからの伝承や文献もなく、架空の存在であって明確な由来は特に無い。戦士として有能なため、単独でも強敵となるが、集団となったリザードマンはさらなる恐るべき存在となる。（リザードマン　Wikipediaより引用）</string>
+    <string name="enemy013_description">中世から近世にかけて、ノルウェー近海やアイスランド沖に出現したとされている。19世紀のアフリカ南部はアンゴラ沖に現れた海の怪物もクラーケンでなかったかと言われている。（クラーケン　Wikipediaより引用）</string>
+    <string name="enemy014_description">旧約聖書に登場する海の怪物（怪獣）。悪魔と見られることもある。「ねじれた」「渦を巻いた」という意味のヘブライ語が語源。原義から転じて、単に大きな怪物や生き物を意味する言葉でもある。また、未加工の羊毛を洗う装置のことも意味する。（レヴィアタン　Wikipediaより引用）</string>
+    <string name="enemy021_description">ヘルヘイムにあるヘルの館「エーリューズニル」の番犬で入り口にある洞窟グニパヘリルに繋がれている。無闇に冥界へと近付く者たちを追い払い、冥界から逃げ出そうとする死者を見張る。 『グリームニルの言葉』では「犬のうち最高のもの」と評されている。ラグナロクの際に自由になり、ガルムが死に際にテュールの喉を噛み切り相打ちになる。（ガルム　Wikipediaより引用）</string>
+    <string name="enemy022_description">ギリシア神話に登場する冥界の番犬である。その名は「底無し穴の霊」を意味する。死者の魂が冥界にやって来る場合にはそのまま冥界へ通すのだが、冥界から逃げ出そうとする亡者は捕らえて貪り食うという。これが地獄の番犬といわれる由来である。（ケルベロス　Wikipediaより引用）</string>
+    <string name="enemy023_description">旧約聖書に登場する陸の怪物（怪獣）。語源は「動物」と言う意味のヘブライ語「behamath」の複数形に由来する。あまりの大きさのために、一頭しか存在していないにもかかわらず、複数形で数えられたとする説も存在する。一説には豊穣のシンボルであり、また悪魔と見なされることもある。（ベヒモス　Wikipediaより引用）</string>
+    <string name="enemy031_description">指の間に張った膜の翼で空を飛ぶ、いわゆるコウモリであるが、大型のものが多く、翼を広げると2m に達するものすらある。オオコウモリ類は視覚に頼って飛行し、そのため目が大きく、耳は小さく、一般的な哺乳類の顔に近い。（オオコウモリ　Wikipediaより引用）</string>
+    <string name="enemy032_description">ギリシア神話に登場する女面鳥身の伝説の生物である。複数形はハルピュイアイ。顔から胸までが人間の女性で、翼と下半身が鳥と描写される。その名は「掠める者」を意味する。（ハルピュイア　Wikipediaより引用）</string>
+    <string name="enemy033_description">ヨーロッパの神話や民話に登場する伝説の生物である。古くはWyrmやWurmともつづった。しばしば脚を持たない、細長い蛇の様なドラゴンの一種を指すが、元々は大蛇を表す言葉である。（ワーム　Wikipediaより引用）</string>
+    <string name="enemy034_description">中東・インド洋地域の伝説に登場する巨大な白い鳥。象を持ち去って食べてしまうくらい大きく力が強いとされる。（ロック鳥　Wikipediaより引用）</string>
+    <string name="enemy041_description">攻撃性が強く、人間の死亡例も多いために恐れられているが、地域によっては生命力の強さが買われて養蜂に使われている。（アフリカナイズドミツバチ　Wikipediaより引用）</string>
+    <string name="enemy042_description">サソリの尾の先には毒針があり、これを使って毒を注入することは一般的によく知られており、猛毒により刺されたら死ぬ場合もあるとして恐れられている。神話伝説にも猛毒を持つサソリの話はたびたび出てくる。ギリシア神話では、英雄オーリーオーンを殺してさそり座になったサソリの話が有名である。（サソリ　Wikipediaより引用）</string>
+    <string name="enemy043_description">ムカデ類の体は、頭部と歩肢の並んだ胴部からなる。頭部には1対の触角と口器がある。頭部の次の体節には、歩肢がなく、その代わりに顎の形になった顎肢がある。全てのムカデは顎肢に毒腺を持ち、この毒を用いて昆虫などの動物を捕食する。（ムカデ　Wikipediaより引用）</string>
+    <string name="enemy051_description">人類はこれまでに様々な架空の生物を創造してきたが、そのような怪物は、既知の生物の特徴を変形したり合成したりして生み出されたものがほとんどである。アメーバや変形菌が知られていなかった古代の神話・物語においては、スライムのような生き物はほとんど登場していない。（スライム　Wikipediaより引用）</string>
+    <string name="enemy052_description">人間から変身途上のマタンゴは、ドアを開けたり背後から人を襲って拉致する程度の知能は残っているが、言葉は発しない（うめき声は起こす）。銃弾では死なないが、銃で打ちつけられて腕が落ちるなど、骨肉の強度は人のそれより劣る（ただし大して血は流れない）。変身途上のマタンゴを、「マタンゴ怪人」と記述した書籍もある。（マタンゴ　Wikipediaより引用）</string>
+    <string name="enemy053_description">伝説上の食虫植物の一種で、人や大型動物を殺して食い尽くすものである。走り回ったり悲鳴を上げる植物はマンドラゴラなどと呼ばれる。（食人木　Wikipediaより引用）</string>
+    <string name="enemy054_description">ラビ（律法学者）が断食や祈祷などの神聖な儀式を行った後、土をこねて人形を作る。呪文を唱え、「אמת」（emeth、真理）という文字を書いた羊皮紙を人形の額に貼り付けることで完成する。ゴーレムを壊す時には、「אמת」（emeth）の「א」（ e ）の一文字を消し、「מת」（meth、死んだ）にすれば良いとされる。（ゴーレム　Wikipediaより引用）</string>
+    <string name="enemy061_description">死者の魂が現世に未練や遺恨があり、現世に残り、生前の姿で可視化したもの、と考えているのであり、希望を実現しないまま死んだ人、責任を果たしきれないままに死んだ人などが幽霊になって出ると考えられる。（幽霊　Wikipediaより引用）</string>
+    <string name="enemy062_description">ゾンビは「生ける死体」として知られており、ブードゥー教のルーツであるヴォドゥンを信仰するアフリカ人は霊魂の存在を信じている。こちらについては「目に見えないもの」として捉えている。 「ゾンビ」は、元はコンゴで信仰されている神「ンザンビ（Nzambi）」に由来する。（ゾンビ　Wikipediaより引用）</string>
+    <string name="enemy063_description">戦場で騎士を倒して鎧を剥ぐと、その中が骸骨だったという話がある。この亡霊騎士は、白骨のウマに乗って現れるともいわれ、鎧を身につけずに骸骨の姿のままで現れるともいわれた。（スケルトン　Wikipediaより引用）</string>
+    <string name="enemy064_description">禍々しい死神の姿は 一種のアレゴリーであり、死を擬人化したものである。神話や宗教・作品によってその姿は大きく変わる。時には白骨とは違った趣向の不気味なデザインとなる事もある。（死神　Wikipediaより引用）</string>
+    <string name="enemy071_description">インプは挿し木など枝を意味し、種から育ったわけでもなく果実を実らせることから、魔術的な意味があるといわれていた。当初は、妖精に分類されていたが、16世紀頃になると、学者たちによって悪魔に分類されその後、頭髪がなくなり、角や蝙蝠のような翼が加えられた。（インプ　Wikipediaより引用）</string>
+    <string name="enemy072_description">悪魔は、特定の宗教文化に根ざした悪しき超自然的存在や、悪を象徴する超越的存在をあらわす言葉である。（悪魔　Wikipediaより引用）</string>
+    <string name="enemy073_description">悪魔は、仏教では仏道を邪魔する悪神を意味し、煩悩のことであるとも捉えられる。キリスト教ではサタンを指し、神を誹謗中傷し、人間を誘惑する存在とされる。サタン以外の西洋文化の悪霊（デーモン）も現代日本語では一般に悪魔と呼ばれたりする。イスラム教においては悪魔はシャイターン、イブリースと呼ばれる。（悪魔　Wikipediaより引用）</string>
+    <string name="enemy081_description">トカゲに似た、或いはヘビに似た強く恐ろしい伝説の生物。鋭い爪と牙を持ち、多くは翼をそなえ空を飛ぶことができ、しばしば口や鼻から炎や毒の息を吐くという。大抵は巨大であるとされる。体色は緑色、真紅、純白、漆黒などさまざまである。（ドラゴン　Wikipediaより引用）</string>
+    
+</resources>

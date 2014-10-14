@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:orientation="vertical">
+  
+
+    <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_alignParentTop="true"
+       android:layout_margin="6dp"
+       android:paddingBottom="20dp"
+       android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:background="@drawable/dialog_bg_template"
+        >
+        <TextView
+           android:id="@+id/dialog_title"
+            android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:padding="10dp"
+           android:text="title"
+            android:textColor="#FFFFFF"
+        android:background="@drawable/dialog_title_template"
+           />
+        
+        <TextView
+            android:id="@+id/dialog_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:lineSpacingExtra="6dp"
+            android:textColor="#333333"
+            />
+        
+        <Button
+            android:id="@+id/dialog_ok_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:text="OK"
+            android:textColor="@android:color/white"
+	        android:background="@drawable/dialog_okbutton_template"
+            />
+        
+    </LinearLayout>
+    
+    <Button
+        android:id="@+id/dialog_close_button"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:text="X"
+        android:textColor="#FF0000"
+        android:background="@drawable/dialog_closebutton_template"
+        />
+    
+</RelativeLayout>
